@@ -47,12 +47,6 @@ background: var(--background);
   margin-top: 2rem;
 }
 
-.text-section {
-  max-width: 400px;
-  text-align: center; /* ✅ text stays perfectly centered */
-}
-
-
 /* Title */
 .title {
   font-size: 2rem;
